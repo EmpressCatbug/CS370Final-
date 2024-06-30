@@ -61,7 +61,7 @@ def q_learning_train(maze, agent, episodes, gamma, epsilon):
 ```
 
 ### Design Defense
-In the design defense, I compared human problem-solving approaches with machine learning techniques, assessed the purpose of the intelligent agent in pathfinding, and evaluated the use of algorithms to solve complex problems. [View the Design Defense Document](link_to_design_defense_file)
+In the design defense, I compared human problem-solving approaches with machine learning techniques, assessed the purpose of the intelligent agent in pathfinding, and evaluated the use of algorithms to solve complex problems. [View the Design Defense Document](https://github.com/EmpressCatbug/CS370Final-/blob/main/CS%20370%20Project%202%20Design%20Defense%20Thompson.pdf)
 
 ## Conclusion
 This project provided valuable experience in applying reinforcement learning and neural networks to a real-world problem. The skills and concepts learned here are essential for developing intelligent systems and contribute significantly to my understanding of AI and its applications in computer science.
